@@ -47,7 +47,7 @@ Security Alert Monitor automatically processes security alert CSV files, identif
    ```bash
    pip install pandas
    ```
-
+https://drive.google.com/file/d/1DkX6EZEJ8C8jrtbZ99yqI-vy60xyKWFE/view?usp=drive_link - this video also walks through it
 ## 📋 Usage
 
 ### Process a Single CSV File
